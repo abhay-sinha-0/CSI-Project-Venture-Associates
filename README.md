@@ -87,11 +87,6 @@ Each KPI is evaluated based on thresholds:
 
 ---
 
-## 📷 Screenshots
-
-> *(Add some screenshots of your Power BI visuals here in `/Screenshots` folder)*
-
----
 
 ## 🤝 Acknowledgments
 
