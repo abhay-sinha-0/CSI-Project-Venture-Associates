@@ -102,8 +102,8 @@ This dashboard was developed as a performance and business monitoring solution f
 ## 📬 Contact
 
 **Developer**: Abhay Kumar  
-**Email**: [your-email@example.com]  
-**LinkedIn**: [linkedin.com/in/abhaykumar](https://linkedin.com/in/abhaykumar)
+**Email**: [abhaykumar1522003abk@gmail.com]  
+**LinkedIn**: [linkedin.com/in/abhaykumar](https://www.linkedin.com/in/abhay-kumar01/)
 
 ---
 
